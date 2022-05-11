@@ -1,4 +1,4 @@
-# ada_plag
+# plagiarism_checker_app
 
 A new Flutter project.
 
